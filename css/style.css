@@ -904,13 +904,13 @@ h6 {
 
 @media (max-width: 991px) {
   .appointment-inner__column--1 {
-    flex: 1 1 100%;
+    flex: 1 1 auto;
   }
 }
 
 @media (max-width: 991px) {
   .appointment-inner__column--2 {
-    flex: 1 1 100%;
+    flex: 1 1 auto;
   }
 }
 
